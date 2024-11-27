@@ -41,7 +41,7 @@ public class MCQQuiz1 {
             }
         }
 
-                System.out.println("You scored " + score + " out of " + (questions.length * 5) + ".");
+                System.out.println("You scored " + score + " out of " + (questions.length ) + ".");
         scanner.close();
     }
 }
